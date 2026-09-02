@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Origami Notes</string>
+    <!-- Also keys the what's-new screen: change it and the screen shows once again. -->
+    <string name="app_version">B18 S.Es</string>
+    <string name="widget_notes_label">Notes List</string>
+    <string name="widget_notes_description">Your most recent notes, one tap away</string>
+    <string name="widget_tasks_label">Tasks List</string>
+    <string name="widget_tasks_description">Today\'s tasks, tick them off without opening the app</string>
+    <string name="widget_one_note_label">One Note</string>
+    <string name="widget_one_note_description">A single note you choose, always on screen</string>
+    <string name="widget_one_task_label">One Task</string>
+    <string name="widget_one_task_description">A single task list you choose</string>
+    <string name="widget_one_folder_label">One Folder</string>
+    <string name="widget_one_folder_description">Notes from one folder you choose</string>
+</resources>

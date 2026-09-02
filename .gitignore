@@ -3,34 +3,34 @@
 !.gitignore
 !README.md
 
-# OxygenNotesAndroid source
-!OxygenNotesAndroid/
-OxygenNotesAndroid/**
-!OxygenNotesAndroid/app/
-OxygenNotesAndroid/app/**
-!OxygenNotesAndroid/app/src/
-OxygenNotesAndroid/app/src/**
-!OxygenNotesAndroid/app/src/**
-!OxygenNotesAndroid/app/build.gradle.kts
-!OxygenNotesAndroid/app/proguard-rules.pro
-!OxygenNotesAndroid/build.gradle.kts
-!OxygenNotesAndroid/gradle.properties
-!OxygenNotesAndroid/settings.gradle.kts
-!OxygenNotesAndroid/gradlew
-!OxygenNotesAndroid/gradlew.bat
-!OxygenNotesAndroid/gradle/
-OxygenNotesAndroid/gradle/**
-!OxygenNotesAndroid/gradle/wrapper/
-!OxygenNotesAndroid/gradle/wrapper/gradle-wrapper.properties
-!OxygenNotesAndroid/gradle/wrapper/gradle-wrapper.jar
+# OrigamiNotesAndroid source
+!OrigamiNotesAndroid/
+OrigamiNotesAndroid/**
+!OrigamiNotesAndroid/app/
+OrigamiNotesAndroid/app/**
+!OrigamiNotesAndroid/app/src/
+OrigamiNotesAndroid/app/src/**
+!OrigamiNotesAndroid/app/src/**
+!OrigamiNotesAndroid/app/build.gradle.kts
+!OrigamiNotesAndroid/app/proguard-rules.pro
+!OrigamiNotesAndroid/build.gradle.kts
+!OrigamiNotesAndroid/gradle.properties
+!OrigamiNotesAndroid/settings.gradle.kts
+!OrigamiNotesAndroid/gradlew
+!OrigamiNotesAndroid/gradlew.bat
+!OrigamiNotesAndroid/gradle/
+OrigamiNotesAndroid/gradle/**
+!OrigamiNotesAndroid/gradle/wrapper/
+!OrigamiNotesAndroid/gradle/wrapper/gradle-wrapper.properties
+!OrigamiNotesAndroid/gradle/wrapper/gradle-wrapper.jar
 
 # APK release
 !releases/
 !releases/*.apk
 
 # Never include
-OxygenNotesAndroid/local.properties
-OxygenNotesAndroid/.gradle/
-OxygenNotesAndroid/build/
-OxygenNotesAndroid/app/build/
-OxygenNotesAndroid/**/.DS_Store
+OrigamiNotesAndroid/local.properties
+OrigamiNotesAndroid/.gradle/
+OrigamiNotesAndroid/build/
+OrigamiNotesAndroid/app/build/
+OrigamiNotesAndroid/**/.DS_Store
